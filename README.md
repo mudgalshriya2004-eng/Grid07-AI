@@ -292,7 +292,7 @@ grid07-ai/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/your-username/grid07-ai.git
+git clone [https://github.com/your-username/grid07-ai.git](https://github.com/mudgalshriya2004-eng/Grid07-AI.git)
 cd grid07-ai
 ```
 
