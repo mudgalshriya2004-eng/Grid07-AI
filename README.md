@@ -284,7 +284,7 @@ GRID07-AI-ASSIGNMENT/
 ## Clone Repository
 
 ```bash
-git clone [https://github.com/your-username/grid07-ai-assignment.git](https://github.com/mudgalshriya2004-eng/Grid07-AI.git)
+git clone https://github.com/mudgalshriya2004-eng/Grid07-AI
 cd GRID07-AI-ASSIGNMENT
 ```
 
